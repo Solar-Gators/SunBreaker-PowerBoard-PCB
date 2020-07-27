@@ -1,0 +1,17 @@
+DRC Rules Export File for PCB: C:\Users\polin\Documents\SolarGators\2019-20\FirstPCBProject\Patrick Update\Powerboard Rev 2.PcbDoc
+RuleKind=Width|RuleName=Schematic Width Constraint_4|Scope=Board|Minimum=30.00
+RuleKind=Width|RuleName=Schematic Width Constraint_11|Scope=Board|Minimum=50.00
+RuleKind=Width|RuleName=Schematic Width Constraint_10|Scope=Board|Minimum=30.00
+RuleKind=Width|RuleName=Schematic Width Constraint_3|Scope=Board|Minimum=30.00
+RuleKind=Width|RuleName=Schematic Width Constraint_2|Scope=Board|Minimum=30.00
+RuleKind=Width|RuleName=Pre12VM WIdth|Scope=Board|Minimum=50.00
+RuleKind=Width|RuleName=Schematic Width Constraint_1|Scope=Board|Minimum=50.00
+RuleKind=Width|RuleName=Width*|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=3v3t width|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=5vt width|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=3v3m width|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=12VT Width|Scope=Board|Minimum=30.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=12VM Width|Scope=Board|Minimum=50.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
