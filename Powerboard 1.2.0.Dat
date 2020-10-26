@@ -1,0 +1,20 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~134|Field=Description~String~Description~134|Field=Designator~String~Designator~134|Field=Footprint~String~Footprint~134|Field=LibRef~String~LibRef~134|Field=Quantity~Integer~Quantity~134|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Powerboard 1.2.0.PrjPCB|ReportField=ProjectFullPath~C:\Users\patri\Downloads\Powerboard 1.2.0.PrjPCB|ReportField=Title~Bill of Materials For Project [Powerboard 1.2.0.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~6:56:30 PM|ReportField=ReportDate~10/26/2020|ReportField=ReportDateTime~10/26/2020 6:56:30 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~35|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~10/26/2020|ReportField=CurrentTime~6:43:50 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\patri\Downloads\Powerboard Rev2 Sheet.SchDoc|ReportField=DocumentName~Powerboard Rev2 Sheet.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2/28/2020|ReportField=Organization~|ReportField=ProjectName~Powerboard V2 Final.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Powerboard 1.2.0.PrjPCB|ReportField=DataSourceFullPath~C:\Users\patri\Downloads\Powerboard 1.2.0.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|9-Pin Connector||*1, *2|9-Pin|9-Pin Connector|2
+2|CCG152403S|Power Supply|12V3M, 12V3T|CCG152403S|CCG152403S|2
+3|12-5V Converter||12V5|CC6-1205SF-E|12-5V Converter|1
+4|75DCDC||100V12M|100DC12|75DCDC|1
+5|Cap|Capacitor|C4, C8|200mm Cap|Cap|2
+6|Cap Pol1|Polarized Capacitor (Radial)|C5, C6|200milCap|Cap Pol1|2
+7|Cap|Capacitor|C7, C10|100milCap|Cap|2
+8|200V|Capacitor|C9|200milCap|Cap2|1
+9|Cap2|Capacitor|C11|200milCap|Cap2|1
+10|Diode 1N4934|1 Amp Fast Recovery Rectifier|D3, D4|2pinDiode|Diode 1N4934|2
+11|Diode 1N4001|1 Amp General Purpose Rectifier|D5|2pinDiode|Diode 1N4001|1
+12|Diode 1N4934|1 Amp Fast Recovery Rectifier|dVm, dVs|3pindiode|Diode 1N4934|2
+13|Fuse|[NoValue], Fuse|F3V3M, F3V3T, F5VT, F7, F12VM, F12VS, F12VT|Fuse Hilder|Fuse, Fuse 2|7
+14|Hole 3mm||H1, H2, H3, H4|Hole 3mm|Hole 3mm|4
+15|Inductor|Inductor|L2|Inductor|Inductor|1
+16|VMain|Header, 2-Pin|P2|HDR1X2|Header 2|1
+17|Res1|Resistor|R3|AXIAL-0.3|Res1|1
+18|RPot|Potentiometer|R4|POT inline wide|RPot_3|1
+19||Header, 2-Pin|VSupp|HDR1X2|Header 2|1
